@@ -1,0 +1,90 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Michael Marsillo
+ID:      169057769
+Email:   mars7769@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Name:       Ravioli 
+Origin:     8 
+Vegetarian: False 
+Calories:   246
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Name: Mike
+Origin 
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+
+Place of origin: 7
+Is vegetarian (Y/N): Y
+Calories per serving: 230
+Name:       Mike 
+Origin:     7 
+Vegetarian: True 
+Calories:   230
+
+
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Name:       Spanakopita 
+Origin:     5 
+Vegetarian: True 
+Calories:   260
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+[<Food.Food object at 0x0000011F05171650>, <Food.Food object at 0x0000011F05171450>, <Food.Food object at 0x0000011F051714D0>, <Food.Food object at 0x0000011F05171510>, <Food.Food object at 0x0000011F05171590>, <Food.Food object at 0x0000011F05171610>, <Food.Food object at 0x0000011F05171110>, <Food.Food object at 0x0000011F051711D0>, <Food.Food object at 0x0000011F05171250>, <Food.Food object at 0x0000011F05171290>, <Food.Food object at 0x0000011F053D55D0>, <Food.Food object at 0x0000011F053D5610>, <Food.Food object at 0x0000011F051712D0>, <Food.Food object at 0x0000011F053D5690>, <Food.Food object at 0x0000011F053D56D0>, <Food.Food object at 0x0000011F053D5710>, <Food.Food object at 0x0000011F053D5790>, <Food.Food object at 0x0000011F053D5810>, <Food.Food object at 0x0000011F053D5850>, <Food.Food object at 0x0000011F053D58D0>, <Food.Food object at 0x0000011F053D5910>, <Food.Food object at 0x0000011F053D5950>, <Food.Food object at 0x0000011F053D59D0>, <Food.Food object at 0x0000011F053D5A50>, <Food.Food object at 0x0000011F053D5B10>, <Food.Food object at 0x0000011F053D5B90>, <Food.Food object at 0x0000011F053D5C10>, <Food.Food object at 0x0000011F053D5C90>, <Food.Food object at 0x0000011F053D5D10>, <Food.Food object at 0x0000011F053D5DD0>, <Food.Food object at 0x0000011F053D5E10>, <Food.Food object at 0x0000011F053D5E50>, <Food.Food object at 0x0000011F053D5F10>, <Food.Food object at 0x0000011F053D5F50>, <Food.Food object at 0x0000011F053D5FD0>, <Food.Food object at 0x0000011F053D6050>, <Food.Food object at 0x0000011F053D60D0>, <Food.Food object at 0x0000011F053D6150>, <Food.Food object at 0x0000011F053D61D0>, <Food.Food object at 0x0000011F053D6250>, <Food.Food object at 0x0000011F053D62D0>, <Food.Food object at 0x0000011F053D6310>, <Food.Food object at 0x0000011F053D6390>]
+
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+[<Food.Food object at 0x0000025DA0D43D50>, <Food.Food object at 0x0000025DA0D59E90>, <Food.Food object at 0x0000025DA0D59F10>, <Food.Food object at 0x0000025DA0D59F50>, <Food.Food object at 0x0000025DA0D59FD0>, <Food.Food object at 0x0000025DA0D59B10>, <Food.Food object at 0x0000025DA0D5A0D0>, <Food.Food object at 0x0000025DA0D59B50>, <Food.Food object at 0x0000025DA0D59C10>, <Food.Food object at 0x0000025DA0D59C50>, <Food.Food object at 0x0000025DA0D59CD0>, <Food.Food object at 0x0000025DA0D59D50>, <Food.Food object at 0x0000025DA0D59C90>, <Food.Food object at 0x0000025DA0FBEB90>, <Food.Food object at 0x0000025DA0FBEBD0>, <Food.Food object at 0x0000025DA0FBEC10>, <Food.Food object at 0x0000025DA0FBEC90>, <Food.Food object at 0x0000025DA0FBED10>, <Food.Food object at 0x0000025DA0FBED50>, <Food.Food object at 0x0000025DA0FBEDD0>, <Food.Food object at 0x0000025DA0FBEE10>, <Food.Food object at 0x0000025DA0FBEE50>, <Food.Food object at 0x0000025DA0FBEED0>, <Food.Food object at 0x0000025DA0FBEF50>, <Food.Food object at 0x0000025DA0FBF010>, <Food.Food object at 0x0000025DA0FBF090>, <Food.Food object at 0x0000025DA0FBF110>, <Food.Food object at 0x0000025DA0FBF190>, <Food.Food object at 0x0000025DA0FBF210>, <Food.Food object at 0x0000025DA0FBF2D0>, <Food.Food object at 0x0000025DA0FBF310>, <Food.Food object at 0x0000025DA0FBF350>, <Food.Food object at 0x0000025DA0FBF410>, <Food.Food object at 0x0000025DA0FBF450>, <Food.Food object at 0x0000025DA0FBF4D0>, <Food.Food object at 0x0000025DA0FBF550>, <Food.Food object at 0x0000025DA0FBF5D0>, <Food.Food object at 0x0000025DA0FBF650>, <Food.Food object at 0x0000025DA0FBF6D0>, <Food.Food object at 0x0000025DA0FBF750>, <Food.Food object at 0x0000025DA0FBF7D0>, <Food.Food object at 0x0000025DA0FBF810>, <Food.Food object at 0x0000025DA0FBF890>]
+
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+[<Food.Food object at 0x000001D080739F50>, <Food.Food object at 0x000001D080739FD0>, <Food.Food object at 0x000001D080739C50>, <Food.Food object at 0x000001D080739CD0>, <Food.Food object at 0x000001D080739C90>, <Food.Food object at 0x000001D08099EC10>, <Food.Food object at 0x000001D08099ED50>, <Food.Food object at 0x000001D08099F090>, <Food.Food object at 0x000001D08099F210>, <Food.Food object at 0x000001D08099F2D0>, <Food.Food object at 0x000001D08099F310>, <Food.Food object at 0x000001D08099F410>, <Food.Food object at 0x000001D08099F550>, <Food.Food object at 0x000001D08099F7D0>]
+
+
+-------------------------------------------------------
